@@ -1,5 +1,2 @@
-Music-Game
-==========
-
-Music Game for iOS - Unfinished# prototype_music-game
-# prototype_music-game
+# Prototype for an iOS music game
+Music stem matching game written in Objective-C.
